@@ -1,0 +1,19 @@
+.YourTodo{
+        font-size: 57px;
+        text-align: center;
+        margin: 0;
+        padding-top: 40px;
+        font-family:  'Questrial', sans-serif;
+        background: -webkit-linear-gradient(#ffffff,#F2D5DB, #403E8C);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        color: #ce5e75;
+}
+.titleCounter {
+        font-size: 24px;
+        text-align: center;
+        margin: 0;
+        padding: 40px;
+        font-family:  'Questrial', sans-serif;
+        color: #F2D5DB;
+}
